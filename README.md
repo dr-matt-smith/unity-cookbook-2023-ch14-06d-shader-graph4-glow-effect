@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch14-06d-shader-graph4-glow-effect
+# unity-cookbook-2023-ch14-08b-shader-graph4-glow-effect
